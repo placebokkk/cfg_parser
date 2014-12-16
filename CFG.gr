@@ -1,0 +1,26 @@
+S NP VP 0.5
+S Verb NP 0.3
+S Verb PP 0.2
+NP DT Nominal 0.5
+NP DT Noun 0.3
+Nominal Nominal Noun 0.5
+Nominal Nominal PP 0.5
+VP Verb NP 0.4
+VP Verb PP 0.3
+VP VP PP 0.3
+PP Preposition NP 1
+Verb book 0.1
+Verb love 0.1
+DT a 0.1
+DT the 0.1
+Noun book 0.1
+Noun money 0.1
+Noun monkey 0.1
+NP I 0.1
+NP she 0.1
+NP he 0.1
+Preposition in 0.1
+Preposition on 0.1
+Preposition to 0.1
+Preposition near 0.1
+Preposition though 0.1
